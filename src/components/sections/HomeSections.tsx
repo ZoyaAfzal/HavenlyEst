@@ -247,7 +247,7 @@ export function WhyChooseSection() {
             transition={{ duration: 0.7 }}
             className="aspect-[4/5] overflow-hidden rounded-3xl shadow-lift"
           >
-            <img src={IMAGES.exterior} alt="House exterior" className="h-full w-full object-cover" />
+            <img src="https://images.pexels.com/photos/7578881/pexels-photo-7578881.jpeg" alt="House exterior" className="h-full w-full object-cover" />
           </motion.div>
           <motion.div
             initial={{ opacity: 0, y: 30 }}
